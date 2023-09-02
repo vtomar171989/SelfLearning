@@ -2,7 +2,8 @@ public class Test {
 
 	public static void main(String[] args) {
 	
-       Testing.show();
+
+		Testing.show();
        Testing t= new Testing();
        t.display();
 	}
@@ -18,6 +19,6 @@ public class Test {
 		
 		System.out.println("I am displaying");
 		System.out.println("I am displaying again");
-		
+		System.out.println("I am displaying again");
 	}
 }
